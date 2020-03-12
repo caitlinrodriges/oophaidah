@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://aigaitairu.tongtong817.cn/sitemap.xml
